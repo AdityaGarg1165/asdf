@@ -22,6 +22,7 @@ class Fetcher {
       // print("body");
       // print(body);
       var items = body['albums']['items'];
+      // print(items[0]['images']);
       // print(accessToken == "d");
 
       // return [];
